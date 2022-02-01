@@ -1,2 +1,1 @@
 #Testjkjkl
-sdist
